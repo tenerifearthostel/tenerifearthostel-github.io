@@ -16,6 +16,11 @@ html {
   animation: fadeIn 1s ease-in-out forwards;
 }
 
+#logo img:hover {
+  transform: scale(1.05);
+  transition: 0.2s;
+}
+
 #stacruz {
   height: 130px;
   width: 100vb;
