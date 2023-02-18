@@ -1,2 +1,2 @@
-# tenerifearthostel-github.io
+# tenerifearthostel.github.io
 Website for our hostel
