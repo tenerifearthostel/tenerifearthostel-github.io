@@ -1,14 +1,13 @@
 
-BEFORE PUBLISHING THE WEBSITE
-	*Take new pictures of:
-		-Pink Room;
-	*Add the new pictures (both in webp for buttons and jpg for modals)
 
 TO PUBLISH THE WEBSITE
 	*Buy domain name
 	*Host with ssh access etc.
 
 AFTER PUBLISHING OR WHEN YOU HAVE TIME (these are non-urgent things to fix in the code)
+	*Take new pictures of:
+		-Pink Room;
+	*Add the new pictures (both in webp for buttons and jpg for modals)
 	*review where I used webp instead of jpg (PLEASE DO THAT, IT'S GETTING CONFUSING)
 	*Improve the mobile UI
 	*Get rid of unecessary spaces between the "label" divisions
