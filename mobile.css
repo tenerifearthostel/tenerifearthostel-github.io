@@ -1,5 +1,5 @@
 /*This is to be applied only when the user uses a narrow screen.*/
-
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
 
 #header {
     position: relative;
@@ -39,7 +39,7 @@
       z-index: 2;
       background-color: #E5E5E5;
       color: #181818;
-      font-family: Arial, sans-serif;
+      font-family: 'Montserrat', sans-serif;
       text-align: center;
     }
     
