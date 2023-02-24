@@ -1,4 +1,5 @@
-
+RIGHT NOW
+	*Figure out why mobile css is not being applied in other pages
 
 TO PUBLISH THE WEBSITE
 	*Buy domain name
