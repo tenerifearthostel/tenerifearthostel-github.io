@@ -16,20 +16,22 @@
   }
   
   #stacruz {
+    align-self: center;
     height: 50px;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     position: relative;
     width: 100%;
     max-width: 767px;
   }
 
   #stacruz img{
+
     margin-top: 10px;
-    width: auto;
-    height: 250%;
-    position: relative;
-    margin-left: 50%;
+    width: 100%;
+    height: auto;
+    position: absolute;
+/*    margin-left: 50%;*/
     transform: translate(-50%, -50%);
   }
 
