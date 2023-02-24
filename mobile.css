@@ -44,6 +44,15 @@
     }
   }
   
+  #map iframe{
+    position: relative;
+    max-width: 400px;
+    width: 100%; 
+    height: 400px; 
+    border: 0;
+    border-radius: 10px;
+  }
+  
   body {
     max-width: 767px;
     z-index: 2;

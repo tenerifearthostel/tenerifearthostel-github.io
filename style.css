@@ -40,6 +40,14 @@ html {
   }
 }
 
+#map iframe{
+  position: relative;
+  width: 900px; 
+  height: 600px; 
+  border: 0;
+  border-radius: 10px;
+}
+
 body {
     z-index: 2;
     background-color: #E5E5E5;
