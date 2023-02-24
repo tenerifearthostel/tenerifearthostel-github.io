@@ -16,15 +16,30 @@
   }
   
   #stacruz {
-    width: 10px;
-    max-width: 10px;
-    height: 10px;
+    /*    width: 10px;
+    max-width: 10px;*/
+    height: 50px;
     position: relative;
-    margin-right: 50%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+/*    margin-right: 100%;*/
 /*    transform: translate(-50%, -50%);*/
-    opacity: 0;
+/*    opacity: 1;*/
 /*    animation: fadeIn 3s ease-in-out forwards;*/
   }
+
+  #stacruz img{
+    margin-top: 10px;
+    width: auto;
+    height: 250%;
+    position: relative;
+    margin-right: 100%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 1;
+/*    animation: fadeIn 3s ease-in-out forwards;*/
+  }
+
   
   @keyframes fadeIn {
     0% {
