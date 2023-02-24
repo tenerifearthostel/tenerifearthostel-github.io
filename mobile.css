@@ -16,16 +16,12 @@
   }
   
   #stacruz {
-    /*    width: 10px;
-    max-width: 10px;*/
     height: 50px;
-    position: relative;
     padding-top: 30px;
     padding-bottom: 30px;
-/*    margin-right: 100%;*/
-/*    transform: translate(-50%, -50%);*/
-/*    opacity: 1;*/
-/*    animation: fadeIn 3s ease-in-out forwards;*/
+    position: relative;
+    width: 100%;
+    max-width: 767px;
   }
 
   #stacruz img{
@@ -33,14 +29,10 @@
     width: auto;
     height: 250%;
     position: relative;
-    margin-right: 100%;
     margin-left: 50%;
     transform: translate(-50%, -50%);
-    opacity: 1;
-/*    animation: fadeIn 3s ease-in-out forwards;*/
   }
 
-  
   @keyframes fadeIn {
     0% {
       opacity: 0;
@@ -51,12 +43,13 @@
   }
   
   body {
-      z-index: 2;
-      background-color: #E5E5E5;
-      color: #181818;
-      font-family: 'Montserrat', sans-serif;
-      text-align: center;
-    }
+    max-width: 767px;
+    z-index: 2;
+    background-color: #E5E5E5;
+    color: #181818;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+  }
     
     header img {
       display: block;
@@ -255,11 +248,5 @@
       width: 100%;
       box-shadow: 2px 2px 5px #888888;
       transition: 0.2s;
-    }
-  
-    #btn img:hover {
-      background-color: #A9A9A9;
-      opacity: 0.8;
-      transform: scale(1.2);
     }
   
