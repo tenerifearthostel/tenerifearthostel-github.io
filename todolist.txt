@@ -7,7 +7,6 @@ TO PUBLISH THE WEBSITE
 AFTER PUBLISHING OR WHEN YOU HAVE TIME (these are non-urgent things to fix in the code)
 	*Take better pictures
 	*Improve the mobile UI
-	*Get rid of unecessary comments in css
 	*Comment the code to be understandable
 	*Maybe add more images
 	*Review font sizes
